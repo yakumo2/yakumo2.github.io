@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Category 1",
+        "sortOrder": 1,
+        "bookmarks": [
+            {
+				"name":"Zero - Oasis-admin",
+				"link":"https://blogadmin.yakumo2.uk",
+				"LAN":"http://192.168.1.11:4001"
+			},
+            {
+                "name": "Bookmark 2",
+                "link": "https://example.com/bookmark2",
+                "LAN": "http://192.168.1.1/bookmark2"
+            }
+        ]
+    },
+    {
+        "name": "Category 2",
+        "sortOrder": 2,
+        "bookmarks": [
+            {
+                "name": "Bookmark 3",
+                "link": "https://example.com/bookmark3",
+                "LAN": "http://192.168.1.1/bookmark3"
+            },
+            {
+                "name":"Zero Albums",
+				"link":"https://zalbum.yakumo2.uk",
+				"LAN":"http://192.168.1.11:15001"
+            }
+        ]
+    }
+]
+
